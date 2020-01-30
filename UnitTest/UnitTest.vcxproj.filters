@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="VertexDemo.cpp" />
+    <ClCompile Include="RectDemo.cpp" />
+    <ClCompile Include="WorldDemo.cpp" />
+    <ClCompile Include="IndexDemo.cpp" />
+    <ClCompile Include="GridDemo.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="VertexDemo.h" />
+    <ClInclude Include="RectDemo.h" />
+    <ClInclude Include="WorldDemo.h" />
+    <ClInclude Include="IndexDemo.h" />
+    <ClInclude Include="GridDemo.h" />
+  </ItemGroup>
+</Project>
